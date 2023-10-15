@@ -1,8 +1,10 @@
 # Daily DevOps:
 What the heck do I do daily?
 
+### Todos:
+[ ] - Creating Documentation Website.
 
-## Little Guide:
+## AI Guide:
 
 - Operating Systems: Gain proficiency in Linux and Windows operating systems. Understanding system administration is crucial, as many DevOps tools and practices are based on these platforms.
 
