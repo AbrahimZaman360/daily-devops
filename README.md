@@ -2,7 +2,7 @@
 What the heck do I do daily?
 
 ### Todos:
-[ ] - Creating Documentation Website.
+- [ ]  Creating Documentation Website.
 
 ## AI Guide:
 
